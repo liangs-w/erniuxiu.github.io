@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 行动才是果实,言词不过是枝叶
 
 You can use the [editor on GitHub](https://github.com/erniuxiu/erniuxiu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
